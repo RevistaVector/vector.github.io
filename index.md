@@ -2,7 +2,7 @@
 
 ## La revista de divulgación científica y tecnológica.
 
-![circulogo](imagenes/circulogo.png | width=100)
+![circulogo](imagenes/circulogo10mm.png)
 
 ```markdown
 Syntax highlighted code block
