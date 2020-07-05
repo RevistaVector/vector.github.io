@@ -2,7 +2,7 @@
 
 ## La revista de divulgación científica y tecnológica.
 
-![CircuLogo.png](https://vector.github.io/_imagnes/CircuLogo.png)
+![Image of CircuLogo](https://revistavector.github.io/_imagnes/CircuLogo.png)
 
 ```markdown
 Syntax highlighted code block
